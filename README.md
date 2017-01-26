@@ -7,3 +7,4 @@
 * yk 优酷搜索 http://www.soku.com/v?keyword={query}
 * wb 新浪微博 http://s.weibo.com/weibo/{query}
 * zh 知乎搜索 http://www.zhihu.com/search?q={query}&type=question
+* smzdm 什么值得买搜索（最新排序） http://search.smzdm.com/?c=home&s={query}&order=time 
