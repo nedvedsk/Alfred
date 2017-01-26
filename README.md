@@ -1,0 +1,9 @@
+# Alfred
+## Custome Searches
+* bd 百度搜索 http://www.baidu.com/s?wd={query}
+* tb 淘宝搜索 http://s.taobao.com/search?q={query}
+* xm 虾米搜索 http://www.xiami.com/search?key={query}
+* fy 有道翻译 http://www.xiami.com/search?key={query}
+* yk 优酷搜索 http://www.soku.com/v?keyword={query}
+* wb 新浪微博 http://s.weibo.com/weibo/{query}
+* zh 知乎搜索 http://www.zhihu.com/search?q={query}&type=question
