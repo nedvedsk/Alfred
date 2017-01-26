@@ -1,4 +1,4 @@
-# Custome Searches
+# Web Search
 * bd 百度搜索 http://www.baidu.com/s?wd={query}
 * tb 淘宝搜索 http://s.taobao.com/search?q={query}
 * xm 虾米搜索 http://www.xiami.com/search?key={query}
