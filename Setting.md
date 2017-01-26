@@ -8,3 +8,5 @@
 * zh 知乎搜索 http://www.zhihu.com/search?q={query}&type=question
 * smzdm 什么值得买搜索（最新排序） http://search.smzdm.com/?c=home&s={query}&order=time 
 * db 豆瓣搜索 https://www.douban.com/search?q={query}
+
+绿色小锁 代表此网页搜索支持 https 搜索，更加安全。
