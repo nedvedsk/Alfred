@@ -8,6 +8,6 @@
 * smzdm 什么值得买搜索（最新排序） http://search.smzdm.com/?c=home&s={query}&order=time 
 * db 豆瓣搜索 https://www.douban.com/search?q={query}
 * bili B站搜索 https://search.bilibili.com/all?keyword={query}
-* jd 京东搜索 https://search.jd.com/Search?keyword={q}&enc=utf-8
+* jd 京东搜索 https://search.jd.com/Search?keyword={query}&enc=utf-8
 
 绿色小锁 代表此网页搜索支持 https 搜索，更加安全。
